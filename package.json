@@ -1,0 +1,17 @@
+{
+  "name": "sound-synthesizer",
+  "version": "0.0.1",
+  "description": "",
+  "main": "lib/synthesizer.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "standard"
+  },
+  "author": "Lucian Buzzo <lucian.buzzo@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "standard": "^12.0.1"
+  }
+}
